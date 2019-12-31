@@ -9,7 +9,7 @@
 
 ## 示例
 
-[Shopify-admin](https://zhouyd.github.io/shopify-admin/)
+[Shopify-admin](https://zyd0814.github.io/shopify-admin/)
 
 ## 关于
 
@@ -61,7 +61,7 @@
 
 > 方渝钦:
 >
-> > 完成了部分[order](https://zhouyd.github.io/shopify-admin/#/orders/all) 页面的样式展示。
+> > 完成了部分[order](https://zyd0814.github.io/shopify-admin/#/order/all) 页面的样式展示。
 
 > 苏世昆:
 >
@@ -73,7 +73,7 @@
 
 > 林虔:
 >
-> > 完成了[products](https://zhouyd.github.io/shopify-admin/#/products)页面的部分功能
+> > 完成了[products](https://zyd0814.github.io/shopify-admin/#/products)页面的部分功能
 
 > 叶文冰:
 >
@@ -87,7 +87,7 @@
 
 > 方渝钦:
 >
-> > 完善了[order](https://zhouyd.github.io/shopify-admin/#/orders/all) 页面的样式展示。
+> > 完善了[order](https://zyd0814.github.io/shopify-admin/#/order/all) 页面的样式展示。
 
 > 苏世昆:
 >
@@ -99,7 +99,7 @@
 
 > 林虔:
 >
-> > 完善了[products](https://zhouyd.github.io/shopify-admin/#/products)类的部分功能
+> > 完善了[products](https://zyd0814.github.io/shopify-admin/#/products)类的部分功能
 
 > 叶文冰:
 >
