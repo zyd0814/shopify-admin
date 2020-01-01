@@ -5,6 +5,8 @@
 # 方渝钦：编写代码
 # 陈紫文：测试
 
+# 原型搞链接：https://ve3w6j.axshare.com  密码：a307
+
 # Shopify-admin
 
 ## 示例
