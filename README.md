@@ -21,7 +21,7 @@
 
 - 周永东
   > 组长  
-  > 项目统筹，调试代码，检查并测试实现的功能，制作原型，customer模块开发
+  > 项目统筹，调试代码，检查并测试实现的功能，制作原型
 - 方渝钦
   > 组员  
   > order模块开发
@@ -85,7 +85,7 @@
 
 > 周永东:
 >
-> > 添加测试数据，并把项目代码 Shopify-admin 托管至 GitHub，完成了[customers](https://zhouyd.github.io/shopify-admin/#/customer) 
+> > 添加测试数据，并把项目代码 Shopify-admin 托管至 GitHub
 
 > 方渝钦:
 >
